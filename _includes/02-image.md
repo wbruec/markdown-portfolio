@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![this is my alt text](https://de.wiktionary.org/wiki/cat#/media/Datei:Cat03.jpg)
